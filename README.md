@@ -1,4 +1,4 @@
-# ift-1004-a2024-qm2-JOATH1
+# ift-1004-a2024-qem2-JOATH1
 Ce repository contient les réponses au questionnaire Exercices du module 2.
 
 ## Question 1
@@ -204,3 +204,4 @@ sans qu'il y est de perte de la valeur initiale lors de la conversion.
 
 Le résultat de cette conversion se résume à l'addtion (ou de toute autre opération arthimétique) entre deux variables de type réel.
 ```
+Ceci est un test.
